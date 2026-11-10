@@ -57,5 +57,10 @@ An example with all possible command-line arguments you can play around with:
 ./bin/main --cell_width=100 --iterations=100 --rule=90 --start_mode=1 --cell='#' --space='.'
 ```
 
+<br>
+
+### Example result:
+![Example Result](res/result.png)
+
 ## License:
 This project is licensed under the [Unlicensed license](https://unlicense.org) - see the [LICENSE](LICENSE) file for details. 
